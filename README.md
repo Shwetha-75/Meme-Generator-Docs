@@ -21,7 +21,7 @@
 <div>
     <h3 font="bold">1. Project Overview </h3>
     <br>
-    <p>
+    <p text='justify'>
       Full-stack web application that allows users to generate, customize, and share memes dynamically. Built using React, Flask, and Supabase, the app lets users browse meme templates, edit text directly on images, and download or share the final meme. The system also supports user authentication and image-based editing functionalities. A tightly coupled architecture ensures quick interaction between frontend and backend while maintaining modular components for scalability.
     </p>
 </div>
